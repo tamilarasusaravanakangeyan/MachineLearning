@@ -43,7 +43,7 @@ The model learns the pattern (roughly *price ≈ $200 per sq ft*) and can now pr
 
 ### Common regression algorithms
 
-- Linear Regression
+- [Linear Regression](linear-regression.md) — deep dive on SSE, R², statistical significance, and prediction intervals
 - Polynomial Regression
 - Decision Tree / Random Forest Regressors
 - Gradient Boosting (XGBoost, LightGBM)
